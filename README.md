@@ -20,5 +20,4 @@
 </body>
 </html>
 
-(https://github.com/DouglaEdu/007/assets/163871215/718fb064-c657-4441-a552-e29922db7dcd) 
-
+(https://github.com/DouglaEdu/007/assets/163871215/718fb064-c657-4441-a552-e29922db7dcd) ]
