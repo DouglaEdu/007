@@ -10,7 +10,7 @@
 </head>
 <body>
     <header>
-        <h1>trafico almenta nas fronteira</h1>
+        <h1>trafico aumenta nas fronteira</h1>
         <ul>
             <li>Traficante de drogas</li>
             <li>um dos maiores traficandes de drogas foi avistado</li>
